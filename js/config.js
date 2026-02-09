@@ -1,5 +1,5 @@
 export const sanityConfig = {
-    projectId: "YOUR_PROJECT_ID", // Get from sanity.io/manage
+    projectId: "9cbua3i8", // Get from sanity.io/manage
     dataset: "production",
     apiVersion: "2023-01-01",
 };
