@@ -1,6 +1,6 @@
 import { sanityConfig } from './config.js';
 import './background.js'; // Start the 3D engine
-import { sanityConfig } from './config.js';
+// import { sanityConfig } from './config.js';
 
 
 
